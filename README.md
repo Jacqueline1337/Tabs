@@ -2,7 +2,8 @@
 <html>
 <head>
 <style>
-body {font-family: "Lato", sans-serif;}
+body {font-family: "Lato", graduate;}
+
 
 /* Style the tab */
 div.tab {
@@ -13,7 +14,7 @@ div.tab {
 
 /* Style the buttons inside the tab */
 div.tab button {
-    background-color: inherit;
+    background-color: #f1faee;
     float: left;
     border: none;
     outline: none;
@@ -25,12 +26,13 @@ div.tab button {
 
 /* Change background color of buttons on hover */
 div.tab button:hover {
-    background-color: #ddd;
+    background-color: #a8dadc;
+   
 }
 
 /* Create an active/current tablink class */
 div.tab button.active {
-    background-color: #ccc;
+    background-color: #457e9d;
 }
 
 /* Style the tab content */
@@ -115,3 +117,5 @@ document.getElementById("defaultOpen").click();
      
 </body>
 </html> 
+
+
