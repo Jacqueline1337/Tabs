@@ -95,6 +95,10 @@ div.tab button.active {
   <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
   <p>Road to success info.</p>
 </div>
+<div style="background-color:lightBlue;color:white;padding:20px;">
+  <h2>About Us</h2>
+  <p>Hello! We are 3 young girls from a program named Girls Who Code! Here in GWC we learn the basics of JavaScript, C++, HTML, Python, etc. During our final 2 weeks we come together and start brainstorming ideas for our final project. We got placed in groups depending on what we wanted from the options available. Finally we were put into groups and started to work on our final projects. Which has brought us to the creation of this website!</p> <p>Creators: Jacqueline Marchan, Julia Devine, Vanesa Marar</p>
+</div> 
 
 <script>
 function openDetail(evt, detailName) {
@@ -114,8 +118,14 @@ function openDetail(evt, detailName) {
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
 </script>
-     
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 </body>
 </html> 
-
-
