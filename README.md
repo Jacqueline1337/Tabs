@@ -32,7 +32,7 @@ div.tab button:hover {
 
 /* Create an active/current tablink class */
 div.tab button.active {
-    background-color: #457e9d;
+    background-color: #378E7D;
 }
 
 /* Style the tab content */
@@ -50,7 +50,7 @@ div.tab button.active {
     font-size: 20px;
 }
 
-.topright:hover {color: red;}
+.topright:hover {color: black;}
 </style>
 </head>
 <body>
@@ -86,10 +86,13 @@ div.tab button.active {
   <p>Studying abroad info.</p>
 </div>
 
-<div id="Student Discounts" class="tabcontent">
+<div style="background-color:teal;color:white;padding:20px:"id="Student Discounts" class="tabcontent">
   <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
-  <p>Student Discounts info.</p>
+  <h3> Student Discounts</h3>
+  <p style="font-family:graduate;">As you may know, college is the time when lack of money becomes quite persistent, so saving up becomes quite 
+  essential. Fortunately, there are places such as stores and cafes which provide students with discounts.</p>
 </div>
+
 
 <div id="Road to Success" class="tabcontent">
   <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
@@ -129,4 +132,5 @@ function googleTranslateElementInit() {
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 </body>
 </html> 
+
 
