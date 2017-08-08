@@ -32,7 +32,7 @@ div.tab button:hover {
 
 /* Create an active/current tablink class */
 div.tab button.active {
-    background-color: #378E7D;
+    background-color: #83BAB0;
 }
 
 /* Style the tab content */
@@ -66,24 +66,29 @@ div.tab button.active {
    <button class="tablinks" onclick="openDetail(event, 'Road to Success')" id="defaultOpen">Road to Success</button>
 </div>
 
-<div id="College Hacks" class="tabcontent">
+<div style="background-color:teal;color:white;padding:20px:"id="College Hacks" class="tabcontent">
   <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
-  <p>College Hacks info.</p>
+  <h3> College Hacks</h3>
+  <p style="font-family:graduate;">Shortcuts are everywhere to simplify the difficulty of tasks, which is greatly needed for a college student in an environment where everything appears to be intricate.</p>
 </div>
 
-<div id="Study Tips" class="tabcontent">
+<div style="background-color:teal;color:white;padding:20px:"id="Study Tips" class="tabcontent">
   <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
-  <p>Study Tips info.</p> 
+  <h3> Study Tips</h3>
+  <p style="font-family:graduate;">One key to success in college is intertwined with your studying habits, since your grade primarily comes from the assessments you take in class. It is important you find the studying method which is best for you.</p> 
 </div>
 
-<div id="Scholarships" class="tabcontent">
+<div style="background-color:teal;color:white;padding:20px:"id="Scholarships" class="tabcontent">
   <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
-  <p>Scholarships info.</p>
+  <h3> Scholarships</h3>
+  <p style="font-family:graduate;">Who doesn't want a free education? Scholarships are a great way to obtain financial assistance for tuition and supplies.</p>
 </div>
 
-<div id="Studying Abroad" class="tabcontent">
+<div style="background-color:teal;color:white;padding:20px:"id="Studying Abroad" class="tabcontent">
   <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
-  <p>Studying abroad info.</p>
+  <h3> Studying Abroad</h3>
+  <p style="font-family:graduate;">Culture comes into play when studying outside the borders, which enables a lot 
+  of opportunities for a college student, not only fulfilling their education, but their interests and hobbies as well.</p>
 </div>
 
 <div style="background-color:teal;color:white;padding:20px:"id="Student Discounts" class="tabcontent">
@@ -94,9 +99,10 @@ div.tab button.active {
 </div>
 
 
-<div id="Road to Success" class="tabcontent">
+<div style="background-color:teal;color:white;padding:20px:"id="Road to Success" class="tabcontent">
   <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
-  <p>Road to success info.</p>
+  <h3> Road to Success</h3>
+  <p style="font-family:graduate;">To pursue a life of success and prosperity relies heavily on choices that you make as a student. Getting your habits and motivations in check are prime factors in planning out your future and acquiring it later on.</p>
 </div>
 <div style="background-color:lightBlue;color:white;padding:20px;">
   <h2>About Us</h2>
