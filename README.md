@@ -327,6 +327,17 @@ function showSlides() {
   <li style="font-family:graduate;"> Manage your time wisely </li>
   <li style="font-family:graduate;"> Minimize Procrastination </li>
   </ul>
+  <h4> Color Coding a TextBook/Book </h4>
+  <ul>
+  <li style="font-family:graduate;color:lightBlue;"> Blue </li>
+  <p style="font-family:graduate;"> Interesting or important quotes. Things to share with another person. </p>
+  <li style="font-family:graduate;color:pink;"> Pink </li>
+  <p style="font-family:graduate;"> Words, names, dates, and places of importance; Nouns. </p>
+  <li style="font-family:graduate;color:chartreuse;"> Green </li>
+  <p style="font-family:graduate;"> Lists, questions, and structural clues, conjunctive adverbs. </p>
+  <li style="font-family:graduate;color:orange;"> Orange </li>
+  <p style="font-family:graduate;"> Examples and figures of speech. </p>
+  </ul>
 </div>
 
 <div style="background-color:teal;color:white;padding:20px:"id="Scholarships" class="tabcontent">
@@ -496,6 +507,7 @@ function showSlides() {
   <li style="font-family:graduate;"> hercampus.com </li>
   <li style="font-family:graduate;"> https://www.buzzfeed.com/peggy/important-life-hacks-every-college-student-should-know?utm_term=.ekPJXGgRj#.wkKljgKDq </li>
   <li style="font-family:graduate;"> http://www.huffingtonpost.com/2010/09/08/study-tips-for-college-_n_709096.html?slideshow=true#gallery/10344/9 </li>
+  <li style="font-family:graduate;"> antiquatednotions.com </li>
   </ul>
 </div>
 
@@ -523,6 +535,19 @@ function showSlides() {
    <li style="font-family:graduate;"> http://jessicaslaughter.co/blog/college-shopping-list/ </li>
    <li style="font-family:graduate;"> https://www.hercampus.com/life/campus-life/what-bring-college-best-college-packing-list-ever </li>
    <li style="font-family:graduate;"> https://www.collegemagazine.com/college-packing-list/ </li>
+   </ul>
+   <h4> Important Things to do the Summer Before College </h4>
+   <ul> 
+   <li style="font-family:graduate;"> Contact your soon-to-be roommate </li>
+   <li style="font-family:graduate;"> Clean up/organize your social media accounts </li>
+   <li style="font-family:graduate;"> Make a list of things you need to buy for your college dorm </li>
+   <li style="font-family:graduate;"> Register for classes </li>
+   <li style="font-family:graduate;"> Apply for scholarships </li>
+   <li style="font-family:graduate;"> Look up textbooks for your classes </li>
+   <li style="font-family:graduate;"> Research clubs and organizations offered by your school </li>
+   <li style="font-family:graduate;"> Look into you school's study abroad program </li>
+   <li style="font-family:graduate;"> Pick up your forgotten hobbies or learn new skills </li>
+   </ul>
 </div>
 <div style="background-color:#82B2B1;color:white;padding:20px;">
   <h2>About Us</h2>
