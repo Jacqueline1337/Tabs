@@ -305,6 +305,31 @@ function showSlides() {
   <li style="font-family:graduate;"> 'File' your T-shirts </li>
   <li style="font-family:graduate;"> Download SelfControl app to help with study time </li>
   </ul>
+  <h4 style="color:Yellow;"> Fun Facts! </h4>
+  <ul>
+  <li style="font-family:graduate;"> Writing something out is equivalent to reading it 7 times! </li>
+  <li style="font-family:graduate;"> You will have more luck doing creative work when you're tired and your brain isn't functioning as efficiently </li>
+  <li style="font-family:graduate;"> Stress can change the size of your brain (and make it smaller) </li>
+  <li style="font-family:graduate;"> It is literally impossible for our brains to multitask </li>
+  <li style="font-family:graduate;"> Naps improve your brain's day to day performance </li>
+  <li style="font-family:graduate;"> Introversion and Extroversion come from different wiring in the brain </li>
+  </ul>
+  <h4> Life Hacks that could still be incorporated in your college life! </h4>
+  <ul> 
+  <li style="font-family:graduate;"> Need to remember to take something with you when you leave in the morning? </li>
+  <p style="font-family:graduate;"> Put it in your shoe so you cannot leave without it </p>
+  <li style="font-family:graduate;"> Need some free wifi? </li>
+  <p style="font-family:graduate;"> The best places to go are Panera, McDonalds, Apple Store, Office Depot, Staples, and Courtyard Marriott </p>
+  <li style="font-family:graduate;"> Getting a call from a telemarketer? </li>
+  <p style="font-family:graduate;"> Don't say anything, just press "9" on your phone, it will add your number to the "don't call" list </p>
+  <li style="font-family:graduate;"> Bees cannot see you if you are not moving </li>
+  <p> </p>
+  <li style="font-family:graduate;"> Trying to repeat a song? </li>
+  <p style="font-family:graduate;"> To listen to a song on Youtube on repeat without having to keep pressing 'replay' at the end, add 'repeat' between 'www.Youtube' and '.com' </p>
+  <li style="font-family:graduate;"> Mosquito bite? </li>
+  <p style="font-family:graduate;"> Press a hot spoon onto the spot. The heat will destroy the reaction and the itching will stop </p>
+  <li style="font-family:graduate;"> Trying to download a Youtube video? </li>
+  <p style="font-family:graduate;"> If you want to download a Youtube video, just add "ss" to the URL between www. and Youtube </p>
 </div>
 
 <div style="background-color:teal;color:white;padding:20px:"id="Study Tips" class="tabcontent">
@@ -337,6 +362,40 @@ function showSlides() {
   <p style="font-family:graduate;"> Lists, questions, and structural clues, conjunctive adverbs. </p>
   <li style="font-family:graduate;color:orange;"> Orange </li>
   <p style="font-family:graduate;"> Examples and figures of speech. </p>
+  </ul>
+  <h4> How To Stay Motivated While Studying </h4>
+  <ul>
+  <li style="font-family:graduate;"> Change pens </li>
+  <li style="font-family:graduate;"> Use Sticky Notes </li>
+  <li style="font-family:graduate;"> Use colorful pens and highlighters </li>
+  <li style="font-family:graduate;"> Study from videos </li>
+  <li style="font-family:graduate;"> Chat with friends about studies </li>
+  <li style="font-family:graduate;"> Read instead of writing: write instead of reading </li>
+  <li style="font-family:graduate;"> Change study positions </li>
+  <li style="font-family:graduate;"> Make a checklist to tick off </li>
+  </ul>
+  <h4> 10 Things to Help You With Studying </h4>
+  <ul>
+  <li style="font-family:graduate;">Good Lighting Can Increase Your Productivity </li>
+  <p style="font-family:graduate;"> An overhead light might not be anough - consider a desk or floor lamp with direct light </p>
+  <li style="font-family:graduate;"> Get Enough Sleep </li>
+  <p style="font-family:graduate;"> Especially the night before your exam. Have regular short breaks every 50-90 minutes to help you focus better </p>
+  <li style="font-family:graduate;"> Start Studying Early </li>
+  <p style="font-family:graduate;"> Plan you study time in advance. Use a calendar and write down what you're planning to do each day </p>
+  <li style="font-family:graduate;"> Use a Color Code to Break Down Your Topics </li>
+  <p style="font-family:graduate;"> Use markers and post-it notes to group relevant information together. It will help you memorize everything faster </p>
+  <li style="font-family:graduate;"> Eat Healthy Food That Fuels Your Brain </li>
+  <p style="font-family:graduate;"> Food like apples, walnuts, and blueberries can improve your ability to focus, retain information and remain mentally alert </p> 
+  <li style="font-family:graduate;"> Avoid Any Distraction </li>
+  <p style="font-family:graduate;"> Turn off your phone and the television, and check your social media updates only during the break time </p>
+  <li style="font-family:graduate;"> Use Mind Maps </li>
+  <p style="font-family:graduate;"> Use min dmaps to visualize your topics better, improve your memory and prioritize information </p>
+  <li style="font-family:graduate;"> Take Breaks During High Intensity Study Periods </li>
+  <p style="font-family:graduate;"> During high intensity study periods it is recommended to take breaks to exercise. It will make you feel more energized and refreshed </p>
+  <li style="font-family:graduate;"> Music During Studying Can Help Be Productive </li>
+  <p style="font-family:graduate;"> Some people find that listening to music whilst studying helps them be more productive. If that is your case, keep the volume low and play songs that you do not find yourself singing along to </p>
+  <li style="font-family:graduate;"> Treat Yourself! </li>
+  <p style="font-family:graduate;"> After taking an exam, meet a friend for coffee, go to the cinema or just take a well-reserved break before starting to study for your next assignment </p>
   </ul>
 </div>
 
@@ -508,6 +567,9 @@ function showSlides() {
   <li style="font-family:graduate;"> https://www.buzzfeed.com/peggy/important-life-hacks-every-college-student-should-know?utm_term=.ekPJXGgRj#.wkKljgKDq </li>
   <li style="font-family:graduate;"> http://www.huffingtonpost.com/2010/09/08/study-tips-for-college-_n_709096.html?slideshow=true#gallery/10344/9 </li>
   <li style="font-family:graduate;"> antiquatednotions.com </li>
+  <li style="font-family:graduate;"> teen.com </li>
+  <li style="font-family:graduate;"> blog.bufferapp.com </li>
+  <li style="font-family:graduate;"> ifunny.co </li>
   </ul>
 </div>
 
@@ -585,3 +647,4 @@ function googleTranslateElementInit() {
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 </body>
 </html> 
+
