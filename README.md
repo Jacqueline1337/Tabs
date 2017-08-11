@@ -273,9 +273,9 @@ function showSlides() {
 
 <div style="background-color:teal;color:white;padding:20px:"id="College Hacks" class="tabcontent">
   <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
-  <h3 style="font-family:Graduate;"> College Hacks</h3>
-  <p style="font-family:Avenir;">Shortcuts are everywhere to simplify the difficulty of tasks, which is greatly needed for a college student in an environment where everything appears to be intricate.</p>
-    <h4 style="font-family:raleway;"> Never Buy a Textbook Again!</h4>
+   <h3 style="font-family:Graduate;"> College Hacks</h3>
+  <p style="font-family:avenir;">Shortcuts are everywhere to simplify the difficulty of tasks, which is greatly needed for a college student in an environment where everything appears to be intricate.</p>
+   <h4 style="font-family:raleway;"> Never Buy a Textbook Again!</h4>
     <p style="font-family:avenir;"> Here are 10 websites where you can get them for free </p>
   <ul>
   <li style="font-family:Avenir;">TextBookNova.com</li>
@@ -304,16 +304,16 @@ function showSlides() {
   <li style="font-family:avenir;"> After the Deadline </li>
   <p style="font-family:avenir;"> After the Deadline is a Grammarly alternative that will also explain why a word is wrong, and provide an appropriate replacement in about 90% of cases </p>
   </ul>
-   <h4 style="font-family:raleway;"> Here Are Some Other Life Hacks for College </h4>
+    <h4 style="font-family:raleway;"> Here Are Some Other Life Hacks for College </h4>
   <ul>
   <li style="font-family:avenir;"> Take notes using different colored pens </li>
   <li style="font-family:avenir;"> Prepare meals in advance </li>
   <li style="font-family:avenir;"> Hack your wifi router </li>
-  <li style="font-family:avenir;"> gGet a laptop lock </li>
+  <li style="font-family:avenir;"> Get a laptop lock </li>
   <li style="font-family:avenir;"> Hang pics with washi tape </li>
   <li style="font-family:avenir;"> Use visa gift cards to get free trials online </li>
   <li style="font-family:avenir;"> Wrap drinks in wet paper towels and put in fridge for 15 min to chill quickly </li>
-  <li style="font-family:avenir;"> Tape dryer sheets over the AC/ fan and turn on the appliance to make dorm smell better </li>
+  <li style="font-family:avenir;"> Tape dryer sheets over the AC/fan and turn on the appliance to make dorm smell better </li>
   <li style="font-family:avenir;"> When giving a presentation, tell a friend to ask you a question you already know the answer to </li>
   <li style="font-family:avenir;"> Get the wifi passwords on most establishments by checking the comments on foursquare </li>
   <li style="font-family:avenir;"> Use command strips to mount tablets wherever you want </li>
@@ -335,7 +335,7 @@ function showSlides() {
   <li style="font-family:avenir;"> Naps improve your brain's day to day performance </li>
   <li style="font-family:avenir;"> Introversion and Extroversion come from different wiring in the brain </li>
   </ul>
-  <h4 style="font-family:raleway;"> Life Hacks that could still be incorporated in your college life! </h4>
+ <h4 style="font-family:raleway;"> Life Hacks that could still be incorporated in your college life! </h4>
   <ul> 
   <li style="font-family:avenir;"> Need to remember to take something with you when you leave in the morning? </li>
   <p style="font-family:avenir;"> Put it in your shoe so you cannot leave without it </p>
@@ -351,6 +351,8 @@ function showSlides() {
   <p style="font-family:avenir;"> Press a hot spoon onto the spot. The heat will destroy the reaction and the itching will stop </p>
   <li style="font-family:avenir;"> Trying to download a Youtube video? </li>
   <p style="font-family:avenir;"> If you want to download a Youtube video, just add "ss" to the URL between www. and Youtube </p>
+  <li style="font-family:avenir;"> Want to make your essay longer? </li>
+  <p style="font-family:avenir;"> Hit CTRL + F, search for "." and change the font size of the periods from 12 to 14. They look the exact same, but will make your paper significantly longer! </p>
   </ul>
   <h4 style="font-family:raleway;"> 7 Brilliant Ways to Start Any Presentation </h4>
   <ul>
@@ -368,6 +370,14 @@ function showSlides() {
   <p style="font-family:avenir;"> A prop is a magnetic tool that hooks your audience and keeps them watching or listening. A visual aid can help emphasize a point, Price says </p>
   <li style="font-family:avenir;"> Play a Short Video </li>
   <p style="font-family:avenir;"> Unlike text and bullet points on a slide, videos evoke emotional responses. They allow you to reel in the audience, add drama, and communicate the gist of your message quickly </p>
+  </ul>
+  <h4 style="font-family:raleway;"> What Kind of Tea Should You Be Drinking? </h4>
+  <ul>
+  <li style="font-family:avenir;"> Chamomile tea if you are about to go to bed, or if you are angry </li>
+  <li style="font-family:avenir;"> Green tea if you are tired, trying to lose weight, or feeling sick </li>
+  <li style="font-family:avenir;"> Chai tea if you are feeling sluggish or you have a stomach ache </li>
+  <li style="font-family:avenir;"> Oolong tea if you're burning fat or breaking out </li>
+  <li style="font-family:avenir;"> Peppermint tea if you are prone to headaches or just sore </li>
   </ul>
 </div>
 
@@ -402,7 +412,7 @@ function showSlides() {
   <li style="font-family:avenir;color:orange;"> Orange </li>
   <p style="font-family:avenir;"> Examples and figures of speech. </p>
   </ul>
-  <h4 style="font-family:raleway;"> How To Stay Motivated While Studying </h4>
+ <h4 style="font-family:raleway;"> How To Stay Motivated While Studying </h4>
   <ul>
   <li style="font-family:avenir;"> Change pens </li>
   <li style="font-family:avenir;"> Use Sticky Notes </li>
@@ -436,7 +446,7 @@ function showSlides() {
   <li style="font-family:avenir;"> Treat Yourself! </li>
   <p style="font-family:avenir;"> After taking an exam, meet a friend for coffee, go to the cinema or just take a well-reserved break before starting to study for your next assignment </p>
   </ul>
-  <h4 style="font-family:raleway;"> The Best Time to Study </h4>
+   <h4 style="font-family:raleway;"> The Best Time to Study </h4>
   <ul>
   <li style="font-family:avenir;"> 4am - 6am </li>
   <p style="font-family:avenir;"> Brain Function: 100% </p>
@@ -445,7 +455,7 @@ function showSlides() {
   <li style="font-family:avenir;"> Night Time </li>
   <p style="font-family:avenir;"> Brain Function: 20% </p>
   </ul>
-  <h4 style="font-family:raleway;"> Improve Your Studying! </h4> 
+   <h4 style="font-family:raleway;"> Improve Your Studying! </h4> 
   <ul>
   <li style="font-family:avenir;"> Scent </li>
   <p style="font-family:avenir;"> Spray an unfamiliar scent while you are studying and again right as you're about to take the test, the scent will jog your memory </p>
@@ -482,7 +492,7 @@ function showSlides() {
   <li style="font-family:avenir;"> US Bank Scholarship - $1000</li>
   <p style="font-family:avenir;"> It is for high school seniors and undergraduate students. 40 are given out per year. Applications only require basic information and are drawn at random </p> 
   <li style="font-family:avenir;"> Niche "No Essay" Scholarship - $2000</li>
-  <p style="font-family:avenir;"> For incoming or current college students. It is drawn once a month. Applications are simple and you can apply every month </p>
+  <p style="font-family:avenir;"> For incoming or current college students. It is drawn once a month. Applications are simple and you can apply every month.</p>
   <li style="font-family:avenir;"> Zinch.com Weekly Scholarship - $1000 </li>
   <p style="font-family:avenir;"> For high schoolers and college students. It is drawn weekly. The applications involves basic information and a very short essay answer to a weekly-changing question </p>
   <li style="font-family:avenir;"> Scholarship Zone Scholarship - $1000 </li>
@@ -765,23 +775,138 @@ function showSlides() {
   <li style="font-family:avenir;"> teen.com </li>
   <li style="font-family:avenir;"> blog.bufferapp.com </li>
   <li style="font-family:avenir;"> ifunny.co </li>
+  <li style="font-family:avenir;"> projectinspired.com </li>
+  <li style="font-family:avenir;"> society19.com </li>
+  <li style="font-family:avenir;"> amp.businessinsider.com </li>
+  <li style="font-family:avenir;"> gurl.com </li>
+  <li style="font-family:avenir;"> how2winscholarships.com </li>
   </ul>
 </div>
 
 
 <div style="background-color:teal;color:white;padding:20px:"id="The Creators" class="tabcontent">
    <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
-   <h3 style="font-family:graduate;"> The Creators</h3>
+    <h3 style="font-family:graduate;"> The Creators</h3>
    <p style="font-family:avenir;"> Here is a little synopsis of each of the authors of this website.</p>
-</div>
    
 
 
+<head>
+<style>
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+@media (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+}
+</style>
+</head>
+<body>
+
+<br>
+
+<div class="row">
+  <div class="column" <div style="background-color: #FFFF00; style="width:100%" img align="middle">
+    <div class="card">
+      <img src="http://image.ibb.co/iiGLZv/Vanesa_s_Profile_Pic.png" alt="Vanesa_s_Profile_Pic" border="0"></a><br /><a target='_blank' href='http://imgbb.com/'></a><br />
+      <div class="container">
+        <h2 style="font-family:clicker script;"><font color="#153631">Vane$a Marar</h2>
+        <p style="font-family:quicksand;" class="title">Co-Founder</p>
+        <p style="font-family:quicksand;"><font color="#153631">Salutations! I have a penchant for learning hence my love for every subject in existence. I am ecstatic to pursue my career as an actuary! </p>
+        <p style="font-family:quicksand;">vanesamarar@yahoo.com</p>  
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column" <div style="background-color: #B9D9BD; style="width:100%" img align="middle">
+    <div class="card" >
+	   <img src="http://image.ibb.co/dfKMra/PICPICFINAL.jpg" alt="PICPICFINAL" border="0"></a><br /><a target='_blank' href='http://imgbb.com/'></a><br />
+      <div class="container">
+        <h2 style="font-family:clicker script;"><font color="white">Jacqueline Marchan</h2>
+        <p style="font-family:quicksand;" class="title">Co-Founder</p>
+        <p style="font-family:quicksand;"><font color="white">I am a motivated future leader that is ready to take on grueling challenges! I like doing outdoor activites and learn from experiences.</p>
+        <p style="font-family:quicksand;"><a href="https://www.linkedin.com/in/jacqueline-marchan-68535a145/?trk=uno-choose-ge-no-intent&dl=no"><font color="white">Jacqueline's linkedIn</a></p>
+  
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+  <div class="column" <div style="background-color: #383a87; style="width:100%" img align="middle">
+    <div class="card">
+     <img src="http://image.ibb.co/j7TL1a/profile_Updated.png" alt="profile_Updated" border="0"></a><br /><a target='_blank' href='http://imgbb.com/'></a><br />
+      <div class="container">
+        <h2 style="font-family:clicker script;"><font color="white">Julia Devine</h2>
+        <p style="font-family:quicksand;" class="title">Co-Founder</p>
+        <p style="font-family:quicksand;"><font color="white">A STEM fanatic and competitive dancer, Julia is always on the lookout for innovation. Julia loves longboarding around Seattle in her free time and catching up with her friends.</p>
+        <p style="font-family:quicksand;"><a href="https://www.linkedin.com/in/julia-d-21987713a"><font color="white">Julia's LinkedIn</a></p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
+
+</div>
+
 <div style="background-color:#82B2B1;color:white;padding:20px;">
-  <h2 style="font-family:graduate;" align="middle">About Us</h2>
+ <h2 style="font-family:graduate;" align="middle">About Us</h2>
   <p style="font-family:avenir;">Hello! We are 3 young girls from a program named Girls Who Code! Here in GWC we learn the basics of JavaScript, C++, HTML, Python, etc. During our final 2 weeks we come together and start brainstorming ideas for our final project. We got placed in groups depending on what we wanted from the options available. Finally we were put into groups and started to work on our final projects. Which has brought us to the creation of this website! While planning what we were going to do for our website we all emphasized the desire to help high school students or anyone interested towards attending college. </p> 
-  <p style="font-family:poiret one;">Creators: Jacqueline Marchan, Julia Devine, Vanesa Marar</p>
+  <p style="font-family:poiret one;">Creators: Jacqueline Marchan, Julia Devine, Vanesa Marar</p> 
 </div> 
+
+  
 
 
 <script>
