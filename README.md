@@ -339,6 +339,7 @@ function showSlides() {
   <p style="font-family:graduate;"> If you want to download a Youtube video, just add "ss" to the URL between www. and Youtube </p>
   </ul>
   <h4> 7 Brilliant Ways to Start Any Presentation </h4>
+  <ul>
   <li style="font-family:graduate;"> Tell a Captivating Story </li>
   <p style="font-family:graduate;"> Stories draw people in, remind them of their own lives, and hold their attention </p>
   <li style="font-family:graduate;"> Ask a Rhetorical, Thought-Provoking Question </li>
