@@ -183,7 +183,14 @@ div.Title {
 <div class="Title">
 <h2 img align="middle"><font size="18">College Knowledge</font>
 </div> 
-
+<div style="background-color:#a8dadc;
+<div class="logo" img align="middle">
+</div>
+<div>
+<div style="background-color:#a8dadc;
+<div class="logo" img align="middle">
+<img src="http://image.ibb.co/nc92Uv/Final_Final_Logo.jpg" alt="Final_Final_Logo" border="0"></a><br /><a target='_blank' href='http://imgbb.com/'></a><br />
+</div>
 </body>
 <body>
 
@@ -195,8 +202,8 @@ div.Title {
    <button class="tablinks" onclick="openDetail(event, 'Studying Abroad')" id="defaultOpen">Studying Abroad</button>
    <button class="tablinks" onclick="openDetail(event, 'Student Discounts')" id="defaultOpen">Student Discounts</button>
    <button class="tablinks" onclick="openDetail(event, 'Road to Success')" id="defaultOpen">Road to Success</button>
-   <button class="tablinks" onclick="openDetail(event, 'References')" id="defaultOpen">References</button>
    <button class="tablinks" onclick="openDetail(event, 'The Creators')" id="defaultOpen">The Creators</button>
+   <button class="tablinks" onclick="openDetail(event, 'References')" id="defaultOpen">References</button>
 </div>
 
 <div class="slideshow-container" img align="middle">
@@ -283,7 +290,7 @@ function showSlides() {
   <li style="font-family:graduate;"> After the Deadline </li>
   <p style="font-family:graduate;"> After the Deadline is a Grammarly alternative that will also explain why a word is wrong, and provide an appropriate replacement in about 90% of cases </p>
   </ul>
-    <h4> Here Are Some Other Life Hacks for College </h4>
+   <h4> Here Are Some Other Life Hacks for College </h4>
   <ul>
   <li style="font-family:graduate;"> Take notes using different colored pens </li>
   <li style="font-family:graduate;"> Prepare meals in advance </li>
@@ -330,6 +337,23 @@ function showSlides() {
   <p style="font-family:graduate;"> Press a hot spoon onto the spot. The heat will destroy the reaction and the itching will stop </p>
   <li style="font-family:graduate;"> Trying to download a Youtube video? </li>
   <p style="font-family:graduate;"> If you want to download a Youtube video, just add "ss" to the URL between www. and Youtube </p>
+  </ul>
+  <h4> 7 Brilliant Ways to Start Any Presentation </h4>
+  <li style="font-family:graduate;"> Tell a Captivating Story </li>
+  <p style="font-family:graduate;"> Stories draw people in, remind them of their own lives, and hold their attention </p>
+  <li style="font-family:graduate;"> Ask a Rhetorical, Thought-Provoking Question </li>
+  <p style="font-family:graduate;"> When crafted and delivered well, rhetorical questions get people thinking and influence the audience to believe in the position of the speaker </p>
+  <li style="font-family:graduate;"> State a Shocking Statistic or Headline </li>
+  <p style="font-family:graduate;"> The statistic or claim needs to be directly related to the main purpose of your presentation, and it should persuade the audience to want to listen and respond positively to what you are about to say </p>
+  <li style="font-family:graduate;"> Use a Powerful Quote </li>
+  <p style="font-family:graduate;"> "Employ the wise words of a well-known person because the name allows you to tap into his or her credibility, likeability, and notoriety," Price says. The quote must have meaning and relevance to the audience </p>
+  <li style="font-family:graduate;"> Show a Gripping Photo </li>
+  <p style="font-family:graduate;"> A compelling image adds aesthetic appeal, increases comprehension, engages the audience's imagination - and makes the message more memorable </p>
+  <li style="font-family:graduate;"> Use a Prop or Creative Visual Aid </li>
+  <p style="font-family:graduate;"> A prop is a magnetic tool that hooks your audience and keeps them watching or listening. A visual aid can help emphasize a point, Price says </p>
+  <li style="font-family:graduate;"> Play a Short Video </li>
+  <p style="font-family:graduate;"> Unlike text and bullet points on a slide, videos evoke emotional responses. They allow you to reel in the audience, add drama, and communicate the gist of your message quickly </p>
+  </ul>
 </div>
 
 <div style="background-color:teal;color:white;padding:20px:"id="Study Tips" class="tabcontent">
@@ -337,6 +361,8 @@ function showSlides() {
   <h3> Study Tips</h3>
   <p style="font-family:graduate;">One key to success in college is intertwined with your studying habits, since your grade primarily comes from the assessments you take in class. It is important you find the studying method which is best for you.</p> 
   <h4> Studying for an exam? </h4>
+    <p style="font-family:graduate;"> Google "site:edu [subject] exam". You'll get a bunch of college exams from the same course. A great way to quiz yourself before your actual exam.</p>
+    <h4> Studying for an exam? </h4>
     <p style="font-family:graduate;"> Google "site:edu [subject] exam". You'll get a bunch of college exams from the same course. A great way to quiz yourself before your actual exam.</p> 
    <h4> List of Useful Study Tips </h4>
    <ul> 
@@ -397,12 +423,76 @@ function showSlides() {
   <li style="font-family:graduate;"> Treat Yourself! </li>
   <p style="font-family:graduate;"> After taking an exam, meet a friend for coffee, go to the cinema or just take a well-reserved break before starting to study for your next assignment </p>
   </ul>
+  <h4> The Best Time to Study </h4>
+  <ul>
+  <li style="font-family:graduate;"> 4am - 6am </li>
+  <p style="font-family:graduate;"> Brain Function: 100% </p>
+  <li style="font-family:graduate;"> 6am - 7:30pm </li>
+  <p style="font-family:graduate;"> Brain Function: 50% </p>
+  <li style="font-family:graduate;"> Night Time </li>
+  <p style="font-family:graduate;"> Brain Function: 20% </p>
+  </ul>
+  <h4> Improve Your Studying! </h4> 
+  <ul>
+  <li style="font-family:graduate;"> Scent </li>
+  <p style="font-family:graduate;"> Spray an unfamiliar scent while you are studying and again right as you're about to take the test, the scent will jog your memory </p>
+  <li style="font-family:graduate;"> Gum </li>
+  <p style="font-family:graduate;"> A weird or different flavor of gum works the same way as an unfamiliar scent </p>
+  <li style="font-family:graduate;"> Notes </li>
+  <p style="font-family:graduate;"> Before taking a test, write down all the relevant information you can think of on an index card as if it were a piece of paper you were allowed to bring with you </p>
+  <li style="font-family:graduate;"> Music </li>
+  <p style="font-family:graduate;"> When listening to hours of recorded lectures, put on instrumental background music to help you focus through the boredom </p>
+  <li style="font-family:graduate;"> Food Trail </li>
+  <p style="font-family:graduate;"> Leave yourself a gummy bear when reading </p>
+  <li style="font-family:graduate;"> Memory </li>
+  <p style="font-family:graduate;"> Write down all of your formulas at the beginning of the test </p>
+  <li style="font-family:graduate;"> Speed </li>
+  <p style="font-family:graduate;"> When crunched for time, listen to recorded lectures at double speed </p>
+  <li style="font-family:graduate;"> Fonts </li>
+  <p style="font-family:graduate;"> When studying, avoid when possible easy-to-read fonts like Arial. Research has shown that large, easy-to-read fonts are likely to be skimmed over. Information presented in a more challenging font is more likely to be retained </p>
+  <li style="font-family:graduate;"> Discipline </li>
+  <p style="font-family:graduate;"> Use a program to block distracting sites on your computer for a set period of time </p>
+  <li style="font-family:graduate;"> Documentary </li>
+  <p style="font-family:graduate;"> For history and anthropology classes, watch a documentary on the topic </p>
+  <li style="font-family:graduate;"> Sample Test </li>
+  <p style="font-family:graduate;"> Google "site:edu [subject] exam" to find exams on the same topics </p>
+  </ul>
 </div>
+
 
 <div style="background-color:teal;color:white;padding:20px:"id="Scholarships" class="tabcontent">
   <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
   <h3> Scholarships</h3>
   <p style="font-family:graduate;">Who doesn't want a free education? Scholarships are a great way to obtain financial assistance for tuition and supplies.</p>
+  <h4> Quick College Scholarships </h4>
+  <ul>
+  <li style="font-family:graduate;"> US Bank Scholarship - $1000</li>
+  <p style="font-family:graduate;"> It is for high school seniors and undergraduate students. 40 are given out per year. Applications only require basic information and are drawn at random </p> 
+  <li style="font-family:graduate;"> Niche "No Essay" Scholarship - $2000</li>
+  <p style="font-family:graduate;"> For incoming or current college students. It is drawn once a month. Applications are simple and you can apply every month </p>
+  <li style="font-family:graduate;"> Zinch.com Weekly Scholarship - $1000 </li>
+  <p style="font-family:graduate;"> For high schoolers and college students. It is drawn weekly. The applications involves basic information and a very short essay answer to a weekly-changing question </p>
+  <li style="font-family:graduate;"> Scholarship Zone Scholarship - $1000 </li>
+  <p style="font-family:graduate;"> For high school seniors and college freshmen, sophomores, and juniors. Applications involve a short survey and an answer to a prompt in 400 to 600 words. It is given out yearly. </p>
+  <li style="font-family:graduate;"> Courage to Grow Scholarship - $500 </li>
+  <p style="font-family:graduate;"> For high school juniors and seniors and college students with a 2.5 GPA and above. Applicants must simply have the required GPA and be a U.S. citizen. It is drawn monthly. </p>
+  <li style="font-family:graduate;"> Nicholas A. Virgilio Memorial Haiku Competition - $50 </li>
+  <p style="font-family:graduate;"> A haiku competition for grades 7 through 12. Three original, unpublished haikus are all that are needed to apply. 6 are granted per year. </p>
+  <li style="font-family:graduate;"> Odenza Marketing Group Scholarship - $500 </li>
+  <p style="font-family:graduate;"> An essay contest for students between the ages of 16 and 25 with a 2.5 GPA or higher. Applicants must submit two short essays: one about travel and the other about deserving the scholarship. It is drawn yearly. </p>
+  <li style="font-family:graduate;"> AFSA High School Senior Scholarship - $2,000 </li>
+  <p style="font-family:graduate;"> It is for high school seniors. Applicants just have to read an essay about automatic fire sprinklers and then take a test online. </p>
+  <li style="font-family:graduate;"> International Teamster Women's Caucus Scholarship - $500 </li>
+  <p style="font-family:graduate;"> For daughters or sons of active or retired Teamster members. Applicants just need to submit SAT/ACT scores and an essay on unions. 2 are rewarded yearly. </p>
+  <li style="font-family:graduate;"> Conestoga Bank "Future of Banking" Scholarship -$1000 </li>
+  <p style="font-family:graduate;"> It is for high school seniors and college freshmen. All that applicants need to do is write a 500 word essay about the future of banking. It is yearly. </p>
+  <li style="font-family:graduate;"> ERCA Community Contribution Scholarship -$1000-$5000 </li>
+  <p style="font-family:graduate;"> For high school seniors. Applicants must develop an action plan for a percieved need in their community. 18 are rewarded yearly. </p>
+  <li style="font-family:graduate;"> Potential Magazine Countdown to College Scholarship -$1000 </li>
+  <p style="font-family:graduate;"> It is for college-bound teenagers. When signing up for Potential Magazine's online newsletter, students are automatically entered to win the scholarship. It is given out yearly. </p>
+  <li style="font-family:graduate;"> National Achievement Scholarship Program - $2500 </li> 
+  <p style="font-family:graduate;"> For African-American high school students. Upon taking the PSAT exam, students must simply indicate on the test answer sheet that they wish to compete for this scholarship. 700 granted yearly. </p>
+  </ul>
 </div>
 
 <div style="background-color:teal;color:white;padding:20px:"id="Studying Abroad" class="tabcontent">
@@ -422,12 +512,13 @@ function showSlides() {
 <div style="background-color:teal;color:white;padding:20px:"id="Student Discounts" class="tabcontent">
   <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
   <h3> Student Discounts</h3>
-  <p style="font-family:graduate;">As you may know, college is the time when lack of money becomes quite persistent, so saving up becomes quite essential. Fortunately, there are places such as stores and cafes which provide students with discounts.</p>
-  <h4> Restaurants That Do Student Discounts </h4>
+  <p style="font-family:graduate;">As you may know, college is the time when lack of money becomes quite persistent, so saving up becomes quite 
+  essential. Fortunately, there are places such as stores and cafes which provide students with discounts.</p>
+  <h4> 14 Restaurants That Do Student Discounts </h4>
   <ul>
   <li style="font-family:graduate;"> Subway - 10% off </li>
   <li style="font-family:graduate;"> Chipotle - Free Drink </li>
-  <li style="font-family:graduate;"> Qdoba - Free Drink - meal for $5 </li>
+  <li style="font-family:graduate;"> Qdoba - Free Drink </li>
   <li style="font-family:graduate;"> Burger King - 10% off </li>
   <li style="font-family:graduate;"> Waffle House - 10% off </li>
   <li style="font-family:graduate;"> Chick-Fil-A - Free Drink </li>
@@ -555,30 +646,6 @@ function showSlides() {
   </ul>
 </div>
 
-<div style="background-color:teal;color:white;padding:20px:"id="References" class="tabcontent">
-  <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
-  <h3> References</h3>
-  <ul> 
-  <li style="font-family:graduate;"> studyreadwrite.com </li>
-  <li style="font-family:graduate;"> tun.com </li>
-  <li style="font-family:graduate;"> 1000lifehacks.com </li>
-  <li style="font-family:graduate;"> bestcollegesonline.com </li> 
-  <li style="font-family:graduate;"> hercampus.com </li>
-  <li style="font-family:graduate;"> https://www.buzzfeed.com/peggy/important-life-hacks-every-college-student-should-know?utm_term=.ekPJXGgRj#.wkKljgKDq </li>
-  <li style="font-family:graduate;"> http://www.huffingtonpost.com/2010/09/08/study-tips-for-college-_n_709096.html?slideshow=true#gallery/10344/9 </li>
-  <li style="font-family:graduate;"> antiquatednotions.com </li>
-  <li style="font-family:graduate;"> teen.com </li>
-  <li style="font-family:graduate;"> blog.bufferapp.com </li>
-  <li style="font-family:graduate;"> ifunny.co </li>
-  </ul>
-</div>
-
-<div style="background-color:teal;color:white;padding:20px:"id="The Creators" class="tabcontent">
-   <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
-   <h3> The Creators</h3>
-   <p style="font-family:graduate;"> Here is a little synopsis of each of the authors of this website.</p>
-</div>
-
 <div style="background-color:teal;color:white;padding:20px:"id="Road to Success" class="tabcontent">
   <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
   <h3> Road to Success</h3>
@@ -610,9 +677,95 @@ function showSlides() {
    <li style="font-family:graduate;"> Look into you school's study abroad program </li>
    <li style="font-family:graduate;"> Pick up your forgotten hobbies or learn new skills </li>
    </ul>
+   <h4 style="color:pink;"> 50 Very Useful Websites For College Students <h4>
+   <ul>
+   <p style="color:lightBlue;"> Academic </p>
+   <li style="font-family:graduate;"> ureddit.com - free courses on tons of subjects </li>
+   <li style="font-family:graduate;"> edx.org - free courses from top universities </li>
+   <li style="font-family:graduate;"> flvto.biz - converts video to mp3 </li>
+   <li style="font-family:graduate;"> wolframalpha.com - answers to homework questions </li>
+   <li style="font-family:graduate;"> quizlet.com - generates study books </li>
+   <li style="font-family:graduate;"> xmind.net - mind mapping tool </li>
+   <li style="font-family:graduate;"> cheatography.com - cheat sheet builder </li>
+   <li style="font-family:graduate;"> studyblue.com - generates learning tools </li>
+   <li style="font-family:graduate;"> audible.com - audio version of books </li>
+   <li style="font-family:graduate;"> instagrok.com - interactive concept maps </li>
+   <li style="font-family:graduate;"> bibme.org - bibliography and citation center </li>
+   <li style="font-family:graduate;"> easybib.com - bibliography and citation center </li>
+   <li style="font-family:graduate;"> talktyper.com - speech to text dictation </li>
+   <li style="font-family:graduate;"> getpocket.com - stores articles for later viewing </li>
+   <li style="font-family:graduate;"> plagtracker.com - checks essays for plagiarism </li>
+   <li style="font-family:graduate;"> ratemyprofessors.com - reviews of professors </li>
+   <li style="font-family:graduate;"> unigo.com - college and scholarship matcher </li>
+   <li style="font-family:graduate;"> roomsurf.com - roommate matcher </li>
+   <li style="font-family:graduate;"> koofers.com - reviews of courses and professors </li>
+   <p style="color:lightBlue;"> Productivity </p>
+   <li style="font-family:graduate;"> habitica.com - game that improves good habits </li>
+   <li style="font-family:graduate;"> todoist.com - task manager </li>
+   <li style="font-family:graduate;"> lastpass.com - password vault </li>
+   <li style="font-family:graduate;"> onedrive.live.com - access files from all devices </li>
+   <li style="font-family:graduate;"> thegrizzlylabs.com - portable scanner </li>
+   <li style="font-family:graduate;"> icecreamapps.com - free software applications </li>
+   <li style="font-family:graduate;"> slack.com - group project communication tool </li>
+   <li style="font-family:graduate;"> groupme.com - free group messaging </li>
+   <li style="font-family:graduate;"> tomato-timer.com - productivity timer </li>
+   <li style="font-family:graduate;"> keepmeout.com - blocks distracting websites </li>
+   <li style="font-family:graduate;"> selfcontrolapps.com - blacklists distracting sites </li>
+   <p style="color:lightBlue;"> Budgeting </p>
+   <li style="font-family:graduate;"> studentrate.com - student deals and discounts </li>
+   <li style="font-family:graduate;"> freecycle.org - find and give away things for free </li>
+   <li style="font-family:graduate;"> nightlifetonight.com - local nightlife deals </li>
+   <li style="font-family:graduate;"> mint.com - finance manager </li>
+   <li style="font-family:graduate;"> venmo.com - send money instantly </li>
+   <li style="font-family:graduate;"> digit.co - slowly adds money to your savings </li>
+   <li style="font-family:graduate;"> moneysavingexpert.com - financial advice </li>
+   <li style="font-family:graduate;"> wisebread.com - tips for living on a budget </li>
+   <p style="color:lightBlue;"> Health </p>
+   <li style="font-family:graduate;"> eve.glowing.com - health and copulating app for women </li>
+   <li style="font-family:graduate;"> sleepyti.me - wake up time calculator </li>
+   <li style="font-family:graduate;"> delightrom.com - the best alarm ever </li>
+   <li style="font-family:graduate;"> hookedapp.com - local deals on food and drink </li>
+   <li style="font-family:graduate;"> myfridgefood.com - recipe generator </li>
+   <li style="font-family:graduate;"> buyagift.co.uk/content/foodhealth - what to eat </li>
+   <li style="font-family:graduate;"> myfitnesspal.com - calorie and fitness tracker </li>
+   <li style="font-family:graduate;"> sworkit.com - personalized video workouts </li>
+   <p style="color:lightBlue;"> Other </p>
+   <li style="font-family:graduate;"> ucampus.net - discover your campus' city </li>
+   <li style="font-family:graduate;"> instructables.com - how-to guides </li>
+   <li style="font-family:graduate;"> unplugthetv.com - an alternative to TV binges </li>
+   <li style="font-family:graduate;"> theskimm.com - daily email with the latest news </li>
+   </ul>
 </div>
+
+<div style="background-color:teal;color:white;padding:20px:"id="References" class="tabcontent">
+  <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
+  <h3> References</h3>
+  <ul> 
+  <li style="font-family:graduate;"> studyreadwrite.com </li>
+  <li style="font-family:graduate;"> tun.com </li>
+  <li style="font-family:graduate;"> 1000lifehacks.com </li>
+  <li style="font-family:graduate;"> bestcollegesonline.com </li> 
+  <li style="font-family:graduate;"> hercampus.com </li>
+  <li style="font-family:graduate;"> https://www.buzzfeed.com/peggy/important-life-hacks-every-college-student-should-know?utm_term=.ekPJXGgRj#.wkKljgKDq </li>
+  <li style="font-family:graduate;"> http://www.huffingtonpost.com/2010/09/08/study-tips-for-college-_n_709096.html?slideshow=true#gallery/10344/9 </li>
+  <li style="font-family:graduate;"> antiquatednotions.com </li>
+  <li style="font-family:graduate;"> teen.com </li>
+  <li style="font-family:graduate;"> blog.bufferapp.com </li>
+  <li style="font-family:graduate;"> ifunny.co </li>
+  </ul>
+</div>
+
+
+<div style="background-color:teal;color:white;padding:20px:"id="The Creators" class="tabcontent">
+   <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
+   <h3> The Creators</h3>
+   <p style="font-family:graduate;"> Here is a little synopsis of each of the authors of this website.</p>
+</div>
+   
+
+
 <div style="background-color:#82B2B1;color:white;padding:20px;">
-  <h2>About Us</h2>
+  <h2 align="middle">About Us</h2>
   <p style="font-family:graduate;">Hello! We are 3 young girls from a program named Girls Who Code! Here in GWC we learn the basics of JavaScript, C++, HTML, Python, etc. During our final 2 weeks we come together and start brainstorming ideas for our final project. We got placed in groups depending on what we wanted from the options available. Finally we were put into groups and started to work on our final projects. Which has brought us to the creation of this website! While planning what we were going to do for our website we all emphasized the desire to help high school students or anyone interested towards attending college. </p> 
   <p style="font-family:graduate;">Creators: Jacqueline Marchan, Julia Devine, Vanesa Marar</p>
 </div> 
