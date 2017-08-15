@@ -326,6 +326,7 @@ function showSlides() {
   <li style="font-family:avenir;"> 'File' your T-shirts </li>
   <li style="font-family:avenir;"> Download SelfControl app to help with study time </li>
   <li style="font-family:avenir;"> When taking notes in class, leave a few pages in the front for a table of contents. This will make it 100 times easier at the end of the year to study from once you have a full notebook </li>
+  <li style="font-family:avenir;"> Target will always match Amazon's price. If you find something cheap on Amazon, just buy it at Target </li>
   </ul>
   <h4 style="font-family:raleway;"> Fun Facts! </h4>
   <ul>
@@ -337,6 +338,12 @@ function showSlides() {
   <li style="font-family:avenir;"> Introversion and Extroversion come from different wiring in the brain </li>
   <li style="font-family:avenir;"> You are 50% more likely to remember something if you speak it out loud instead of simply reading it over and over </li>
   <li style="font-family:avenir;"> June 6th is National Doughnut Day at Krispy Kreme, you can get a free donut no purchase necessary </li> 
+  <li style="font-family:avenir;"> When playing rock/paper/scissors, women are more likely to play scissors whereas men are more likely to play rock </li>
+  <li style="font-family:avenir;"> Simply touching money has been proven to reduce physical and emotional pain </li>
+  <li style="font-family:avenir;"> Baking soda catalyzes Superglue. A light sprinkle will cause even a large amount to set in seconds </li>
+  <li style="font-family:avenir;"> When you add cream, coffee stays warm 20% longer </li>
+  <li style="font-family:avenir;"> The keyboards at your school have statistically more germs than the toilet seats </li>
+  <li style="font-family:avenir;"> Laughing for 15 minutes has the same health benefits as getting two extra hours of sleep </li>
   </ul>
  <h4 style="font-family:raleway;"> Life Hacks that could still be incorporated in your college life! </h4>
   <ul> 
@@ -360,6 +367,18 @@ function showSlides() {
   <p style="font-family:avenir;"> Change font color to dark Tan. It looks almost indistinguishable to black </p>
   <li style="font-family:avenir;"> Need to focus better in a public setting? </li>
   <p style="font-family:avenir;"> On SimplyNoise.com you can play a selection of white noise that have been scientifically developed to increase your concentration and focus </p>
+  <li style="font-family:avenir;"> Dent in a ping pong ball? </li>
+  <p style="font-family:avenir;"> Hold it under a lighter (not too close or it will burn) and the gasses will expand, making it as good as new </p>
+  <li style="font-family:avenir;"> Filling your car with gas? </li>
+  <p style="font-family:avenir;"> When filling your car with gas, hold the trigger half way. You will get more gas and less air in the tank </p>
+  <li style="font-family:avenir;"> Trying to burn more calories? </li>
+  <p style="font-family:avenir;"> Eating breakfast in the morning makes it ten times easier to burn calories throughout the day </p>
+  <li style="font-family:avenir;"> Trying to beat someone at Hangman? </li>
+  <p style="font-family:avenir;"> Use words such as Sphynx, Gypsy, Rhythm, Zephyr, Miscellaneous, Myth, Lynx, and Phoenix </p>
+  <li style="font-family:avenir;"> Buying something from Apple? </li>
+  <p style="font-family:avenir;"> Add it to your shopping cart but do not buy it yet. In 7-10 days they will give you a 15-20% discount on that item </p>
+  <li style="font-family:avenir;"> Accidentally closed a tab? </li>
+  <p style="font-family:avenir;"> Press ctrl+shift+t to reopen the tab </p>
   </ul>
   <h4 style="font-family:raleway;"> 7 Brilliant Ways to Start Any Presentation </h4>
   <ul>
@@ -437,7 +456,7 @@ function showSlides() {
   <li style="font-family:avenir;"> Get Enough Sleep </li>
   <p style="font-family:avenir;"> Especially the night before your exam. Have regular short breaks every 50-90 minutes to help you focus better </p>
   <li style="font-family:avenir;"> Start Studying Early </li>
-  <p style="font-family:avenir;"> Plan you study time in advance. Use a calendar and write down what you're planning to do each day </p>
+  <p style="font-family:avenir;"> Plan your study time in advance. Use a calendar and write down what you're planning to do each day </p>
   <li style="font-family:avenir;"> Use a Color Code to Break Down Your Topics </li>
   <p style="font-family:avenir;"> Use markers and post-it notes to group relevant information together. It will help you memorize everything faster </p>
   <li style="font-family:avenir;"> Eat Healthy Food That Fuels Your Brain </li>
@@ -445,7 +464,7 @@ function showSlides() {
   <li style="font-family:avenir;"> Avoid Any Distraction </li>
   <p style="font-family:avenir;"> Turn off your phone and the television, and check your social media updates only during the break time </p>
   <li style="font-family:avenir;"> Use Mind Maps </li>
-  <p style="font-family:avenir;"> Use min dmaps to visualize your topics better, improve your memory and prioritize information </p>
+  <p style="font-family:avenir;"> Use mind maps to visualize your topics better, improve your memory and prioritize information </p>
   <li style="font-family:avenir;"> Take Breaks During High Intensity Study Periods </li>
   <p style="font-family:avenir;"> During high intensity study periods it is recommended to take breaks to exercise. It will make you feel more energized and refreshed </p>
   <li style="font-family:avenir;"> Music During Studying Can Help Be Productive </li>
@@ -536,6 +555,39 @@ function showSlides() {
   <li style="font-family:avenir;"> Consider multiple factors when choosing your location: academics, language, duration, independence, location, career </li>
   <li style="font-family:avenir;"> Make sure you can afford the trip (financially and academically) </li>
   <li style="font-family:avenir;"> Discuss your plan with advisors. Make sure you are making the right move </li>
+  </ul>
+  <h4 style="font-family:raleway;"> 15 Items You'll be Glad You Purchased Before Going Abroad </h4>
+  <ul>
+  <li style="font-family:avenir;"> Portable Charger </li>
+  <p style="font-family:avenir;"> With these portable chargers, all you do is charge the extra battery before you leave and it will provide you with about 20 hours of extra charging time </p>
+  <li style="font-family:avenir;"> Hair Dryer and Flat Iron with Dual Voltage </li>
+  <p style="font-family:avenir;"> Electronics that operate with dual voltage can be used abroad with just an adapter and not a converter </p>
+  <li style="font-family:avenir;"> Journal </li>
+  <p style="font-family:avenir;"> You can write one interesting thing that happened each day, or write down funny quotes, etc. There is no better souvenir than a collection of your own stories </p>
+  <li style="font-family:avenir;"> Small Enough Carry-On Bag </li>
+  <p style="font-family:avenir;"> Budget airlines are a cheap way for students to travel while studying abroad, but they often have strict rules for the size of your carry-on. You will save a lot of money and energy if you check their dimensions before-hand </p>
+  <li style="font-family:avenir;"> Neck Pillow </li>
+  <p style="font-family:avenir;"> You will all at one some point take atleast one long bus/train ride during our travels abroad and what better way to spend those long hours than having a comfy place to sleep and rest your head </p>
+  <li style="font-family:avenir;"> Raincoat </li>
+  <p style="font-family:avenir;"> Would you rather walk around in Florence looking like a tourist in a plastic poncho, or wear your stylish raincoat that still looks cute in pictures? </p>
+  <li style="font-family:avenir;"> Your Country's Snacks </li>
+  <p style="font-family:avenir;"> As much as you may be ecstatic about indulging in the delicious Italian pizza or Madrid's famous churros, there will come a time when you'll crave your favorite American snack 
+  <li style="font-family:avenir;"> Swiss Army Knife </li>
+  <p style="font-family:avenir;"> A swiss army knife has all of the essentials a traveler could need built into one little gadget </p>
+  <li style="font-family:avenir;"> Books </li>
+  <p style="font-family:avenir;"> Reading is the perfect way to entertain yourself, whether that is on a long bus ride or on the beach in Mykonos </p>
+  <li style="font-family:avenir;"> Universal Adapter and Converter </li>
+  <p style="font-family:avenir;"> It is important to do your research about which plugs the country you are going to uses. It is also important to know which electronics you are bringing require a convertor </p>
+  <li style="font-family:avenir;"> Reusable Water Bottle </li>
+  <p style="font-family:avenir;"> If the tap water is safe to drink where you are visiting, you can save money and stay hydrated by using a reusable water bottle </p>
+  <li style="font-family:avenir;"> Go-Pro Camera </li>
+  <p style="font-family:avenir;"> These wide-angled cameras are small and waterproof, which can take awesome pictures and videos </p>
+  <li style="font-family:avenir;"> Portable Speakers </li>
+  <p style="font-family:avenir;"> Your music can follow you wherever you go with portable speakers. They are compact and light, which make them very easy to travel with but they can also be very loud </p>
+  <li style="font-family:avenir;"> American Medicine </li>
+  <p style="font-family:avenir;"> If you are used to taking a lot of Advil to cure your hangovers or Nyquil to fight a cold, do not forget to pack those. Communication can be quite difficult when finding the right medicine in other countries </p>
+  <li style="font-family:avenir;"> A Deck of Cards </li>
+  <p style="font-family:avenir;"> A deck of regular cards or perhaps UNO provide for easy entertainment while traveling anywhere and can be used on planes, trains, and buses </p>
   </ul>
 </div>
 
@@ -1024,6 +1076,7 @@ function showSlides() {
   <li style="font-family:avenir;"> amp.businessinsider.com </li>
   <li style="font-family:avenir;"> gurl.com </li>
   <li style="font-family:avenir;"> how2winscholarships.com </li>
+  <li style="font-family:avenir;"> theabroadguide.com </li>
   </ul>
 </div>
 
@@ -1182,3 +1235,4 @@ function googleTranslateElementInit() {
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 </body>
 </html> 
+
