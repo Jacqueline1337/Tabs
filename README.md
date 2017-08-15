@@ -184,7 +184,7 @@ body {font-family: Verdana,sans-serif;}
 <head>
 <style>
 div.Title {
-    background-color: teal;
+    background-color: rgb(3,4,43);
     color: white;
     margin: 20px 0 20px 0;
     padding: 20px;
@@ -194,7 +194,7 @@ div.Title {
 
 <body>
 
-<div class="Title">
+<div style="font-family:graduate;color:rgb(241,250,238);"class="Title">
 <h2 img align="middle"><font size="18">College Knowledge</font>
 </div> 
 <div style="background-color:#a8dadc;
